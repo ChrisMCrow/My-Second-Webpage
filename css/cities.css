@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-family: fantasy;
+}
+h3{
+  color: crimson;
+  font-size: 25px;
+}
+a{
+  color: blue;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
