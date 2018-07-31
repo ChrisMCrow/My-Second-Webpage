@@ -1,4 +1,4 @@
-# _my-first-webpage_
+# my-first-webpage
 
 #### First webpage at Epicodus - Day 1, July 31,2018
 
@@ -21,7 +21,7 @@ Vera Weikel vera.weikel@gmail.com
 Chris Crow chrismcrow@gmail.com
 
 ## Technologies Used
-*HTML _(learned and built in 4 hrs.)
+* HTML _(learned and built in 4 hrs.)
 
 ### License
 
